@@ -4,6 +4,11 @@
 
 This notebook provides a geospatial workflow for assessing vegetation loss due to wildfires using satellite imagery and remote sensing techniques. While Evia, Greece is used as a case study, the methodology can be applied to other regions globally.
 
+## Team
+- Marcos Navarrete
+- Mısra Serenay Özgök Genç
+- Eleftheria Papadosifou
+
 ## 🔍 Overview
 
 - Google Earth Engine & `geemap` for satellite data access and visualization  
